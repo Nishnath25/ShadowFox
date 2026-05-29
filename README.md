@@ -21,7 +21,7 @@ Intermediate Level
   * Web Scraper
   * Hangman Game
 
-Advanced Level
+
 
 Links
   LinkedIn Video: 
